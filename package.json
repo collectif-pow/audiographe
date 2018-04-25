@@ -1,0 +1,23 @@
+{
+	"name": "audiographe",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/collectif-pow/audiographe.git"
+	},
+	"author": "Xavier Seignard <xavier.seignard@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/collectif-pow/audiographe/issues"
+	},
+	"homepage": "https://github.com/collectif-pow/audiographe#readme",
+	"dependencies": {
+		"express": "^4.16.3",
+		"socket.io": "^2.1.0"
+	}
+}
